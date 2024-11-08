@@ -2,7 +2,7 @@ Author - Hansika Samaranayake
 # Software-testing-projects
 Here are the live projects I have done with the STLC templates and documents.
 
-Software testing projects list
+Software testing projects list which I completed in my previous workplace
 
 | Project name | Description | Tools used |
 | :---         |     :---:      |          ---: |
